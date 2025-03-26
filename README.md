@@ -70,7 +70,3 @@ d: 12624
 
 This project uses only Python standard libraries:
 - sys
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
