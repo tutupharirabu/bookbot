@@ -21,7 +21,7 @@ BookBot is my first project from the [Boot.dev](https://www.boot.dev) curriculum
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/bookbot.git
+https://github.com/tutupharirabu/bookbot.git
 cd bookbot
 ```
 
